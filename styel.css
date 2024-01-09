@@ -11,7 +11,7 @@
     align-items: center;
     flex-direction: column;
     background: linear-gradient(#070211 0%, rgba(7, 2, 17, 0) 100%),
-      url("/images/Banner-Image.png");
+      url("./images/Banner-Image.png");
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 12px;
@@ -68,7 +68,7 @@
     padding: 100px;
     justify-content: center;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-      url("/images/Vectorrr.png"),
+      url("./images/Vectorrr.png"),
       lightgray 0px -203.444px / 100% 213.755% no-repeat;
     background-position: center;
     background-repeat: no-repeat;
